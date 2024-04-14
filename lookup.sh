@@ -1,6 +1,8 @@
 #!/bin/bash
 
+#Date in YYYY-MM-DD format
 DATE=$1
+
 SRC_CURRENCY="USD"
 DST_CURRENCY="CAD"
 
